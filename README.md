@@ -34,9 +34,9 @@
     <ul>
       <li><a href="#">Home</a></li>
       <li><a href="#">News</a></li>
-      <li><a href="#">Destination</a></li>
-      <li><a href="#">Blog</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><a href="#">Fly About</a></li>
+      <li><a href="#">Blog Post</a></li>
+      <li><a href="#">Contact Us</a></li>
     </ul>
   </div>
 
